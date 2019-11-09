@@ -3,7 +3,6 @@ package com.bridge.lab;
 import java.util.Scanner;
 
 public class LeapYear {
-
 	/**
 	 * Function to check if year is leap year or not
 	 * 
